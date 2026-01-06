@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Factory Intelligence System (FOCIS) v1.4",
+  "description": "A comprehensive, event-driven factory operational control system for production, inventory, maintenance, and real-time costing intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
